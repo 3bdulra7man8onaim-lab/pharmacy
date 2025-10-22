@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "hisham-pharmacy"
+		},
+		{
+			"path": "hisham-pharmacy-react"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "hisham-pharmacy"
+	}
+}
